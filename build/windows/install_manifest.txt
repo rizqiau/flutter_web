@@ -1,0 +1,13 @@
+C:/Future Career/Programming/Flutters/flutter_web/build/windows/runner/Debug/data/icudtl.dat
+C:/Future Career/Programming/Flutters/flutter_web/build/windows/runner/Debug/flutter_windows.dll
+C:/Future Career/Programming/Flutters/flutter_web/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Future Career/Programming/Flutters/flutter_web/build/windows/runner/Debug/data/flutter_assets/assets/background.png
+C:/Future Career/Programming/Flutters/flutter_web/build/windows/runner/Debug/data/flutter_assets/assets/button_account.png
+C:/Future Career/Programming/Flutters/flutter_web/build/windows/runner/Debug/data/flutter_assets/assets/illustration.png
+C:/Future Career/Programming/Flutters/flutter_web/build/windows/runner/Debug/data/flutter_assets/assets/logo.png
+C:/Future Career/Programming/Flutters/flutter_web/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Future Career/Programming/Flutters/flutter_web/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Future Career/Programming/Flutters/flutter_web/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Future Career/Programming/Flutters/flutter_web/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Future Career/Programming/Flutters/flutter_web/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Future Career/Programming/Flutters/flutter_web/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

@@ -1,0 +1,28 @@
+^C:\FUTURE CAREER\PROGRAMMING\FLUTTERS\FLUTTER_WEB\BUILD\WINDOWS\CMAKEFILES\5694E9A7DDAA28BBE2F95258C880B0D9\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env "FLUTTER_ROOT=C:\Users\Achmad Divi\Documents\ALL SDK's\flutter_windows_2.8.1-stable\flutter" "PROJECT_DIR=C:\Future Career\Programming\Flutters\flutter_web" "FLUTTER_ROOT=C:\Users\Achmad Divi\Documents\ALL SDK's\flutter_windows_2.8.1-stable\flutter" "FLUTTER_EPHEMERAL_DIR=C:\Future Career\Programming\Flutters\flutter_web\windows\flutter\ephemeral" "PROJECT_DIR=C:\Future Career\Programming\Flutters\flutter_web" "FLUTTER_TARGET=C:\Future Career\Programming\Flutters\flutter_web\lib\main.dart" DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl,RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Future Career\Programming\Flutters\flutter_web\.dart_tool\package_config.json" "C:/Users/Achmad Divi/Documents/ALL SDK's/flutter_windows_2.8.1-stable/flutter/packages/flutter_tools/bin/tool_backend.bat" windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\FUTURE CAREER\PROGRAMMING\FLUTTERS\FLUTTER_WEB\BUILD\WINDOWS\CMAKEFILES\7CE27DC5EF05C90ADF6B3F4A43B47649\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\FUTURE CAREER\PROGRAMMING\FLUTTERS\FLUTTER_WEB\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Future Career/Programming/Flutters/flutter_web/windows" "-BC:/Future Career/Programming/Flutters/flutter_web/build/windows" --check-stamp-file "C:/Future Career/Programming/Flutters/flutter_web/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
